@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/plugins/ValdationGoogle">
+    <file>settings.png</file>
+    <file>icon.png</file>
+  </qresource>
+</RCC>
